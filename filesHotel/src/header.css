@@ -1,0 +1,10 @@
+.custom-container{
+max-height: 50%;
+background-color: aquamarine;
+border: 50px;
+}
+.bg-color{
+    background-color: rgb(20, 152, 20);
+    color: aliceblue;
+
+}
